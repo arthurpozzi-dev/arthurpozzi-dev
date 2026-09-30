@@ -6,6 +6,11 @@ Construo sistemas web, automações e pipelines multi-agente de ponta a ponta, d
 Escrevo TypeScript e Python, cuido de banco, workers e deploy, e uso agentes de IA como parte do processo de engenharia:
 um agente planeja, outro implementa em worktree isolado, dois revisam (spec e código) antes do merge.
 
+**Hoje:**
+- 💼 Atendendo projetos como freelancer
+- 🎓 Finalizando a graduação em Análise e Desenvolvimento de Sistemas (ADS)
+- 🤖 Fazendo as formações da Anthropic e da Asimov Academy em automação com agentes de IA
+
 **Stack:** TypeScript · Node · Next.js · React · Fastify · Prisma · Drizzle · Postgres · Supabase · Python · Docker · Caddy · Playwright · Vitest
 
 ---
@@ -51,3 +56,12 @@ Construído com subagent-driven development e entregue em VPS com Docker, TLS e 
 | [t3h4](https://github.com/arthurpozzi-dev/t3h4): site institucional multilíngue (EN/PT/DE) | [t3h4.vercel.app](https://t3h4.vercel.app) |
 | [advogado-drcadu](https://github.com/arthurpozzi-dev/advogado-drcadu): landing page de blindagem patrimonial | [ver site](https://advogado-drcadu.vercel.app) |
 | [vem-ca](https://github.com/arthurpozzi-dev/vem-ca): site de escola de música | [ver site](https://vem-ca.vercel.app) |
+
+---
+
+## Contato
+
+Aberto a projetos freelance e oportunidades.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-arthur--pozzi01-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-pozzi01/)
+[![Email](https://img.shields.io/badge/Email-arthurpozzi01%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:arthurpozzi01@gmail.com)
